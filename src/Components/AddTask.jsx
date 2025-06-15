@@ -25,7 +25,7 @@ const AddTask = () => {
         value={task}
         onChange={(e) => setTask(e.target.value)}
         className="w-full p-2 border border-gray-300 rounded mb-2"
-        placeholder="Add a new task"
+        placeholder="Add(Ongeza) new task"
       />
       <input
         type="date"
